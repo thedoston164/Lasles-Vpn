@@ -73,14 +73,14 @@ ul {
     margin-left: 30px;
 }
 .sign-up .sign-link {
-    color: #f53855;
-    border: 1px solid #F53855;
+    color: green;
+    border: 1px solid green;
     padding: 13px 45px;
     border-radius: 50px;
     transition: 0.3s ease;
 }
 .sign-up .sign-link:hover {
-    background: #f53855;
+    background: green;
     color: #fff;
 }
 /* Hero start */
@@ -108,7 +108,7 @@ ul {
     margin-bottom: 50px;
 }
 .hero-link {
-    background: #F53838;
+    background: green;
     border-radius: 10px;
     padding: 17.5px 78.5px;
     color: #fff;
